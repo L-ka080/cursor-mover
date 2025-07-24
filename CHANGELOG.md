@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "testextension" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## [0.0.1]
 
 - Initial release
+
+## [0.0.2]
+- Now selected lines will always appear in the center of the screen;
+- Added title to input box for visual clarity
